@@ -1,0 +1,65 @@
+body { background-color: #cee6b4;
+  margin: 0;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Dancing Script', cursive;
+  font-size: 5.265rem;
+  color: #66BFBF;
+}
+
+.top-container {
+  background-color: #E0FFFF;
+  position: relative;
+  padding-top: 100px;
+}
+
+h2 {
+  font-size: 2.5rem;
+  color: #66BFBF;
+}
+
+h3 {
+  color: #66BFBF
+}
+
+.middle-container .bottom-container .taxi {
+  text-decoration: underline;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.lexus {margin: 100px auto 100px auto;
+  height: 400px;
+  width: auto;
+  border-radius: 50%;
+}
+
+.pitons {
+  border-radius: 50%;
+  height: 400px;
+  width: auto;
+}
+
+.contact {
+  text-align: center;
+}
+
+.taxiw {
+  font-weight: normal;
+}
+.skillrow { float: left; width: 50%; text-align: left; line-height: 2; margin: 100px auto 100px auto;}
+.ride {width: 50%; text-align: center; position: relative; left: 350px;}
