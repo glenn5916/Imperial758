@@ -61,7 +61,7 @@ a:hover {
 
 .bottom-cloud {
   position: absolute;
-  left: 300px;
+  left: 200px;
   bottom: 300px;
 }
 
@@ -75,6 +75,10 @@ a:hover {
   margin: 100px auto 100px auto;
   width: 25%;
   border-radius: 50%;
+}
+.car {
+  margin: 100px auto 100px auto;
+  width: 40%;border-radius: 40%;
 }
 
 .pitons {
